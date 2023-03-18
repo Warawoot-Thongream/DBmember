@@ -3,12 +3,16 @@
 <div id="header" align="center">
   <u><b>โจทย์แบบทดสอบปฏิบัติ PHP&amp;my SQL</b></u>
     <br></br>
+    
   การลงชื่อเข้าใช้<br>
     <br></br>
+    
   การเพิ่ม แก้ไข และลบข้อมูล<br>
-    <br>
+    <br></br>
+    
   การออกจากระบบ<br>
     <br></br>
+    
   ฐานข้อมูล<br>
     <br></br>
   <br>
